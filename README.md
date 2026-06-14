@@ -1,3 +1,9 @@
+# WeChat-Mini-Program-Development-Tutorial
+
+> 用AI Agent写的小程序开发入门教程，有错误请指正~
+
+---
+
 # 微信小程序开发入门教程
 
 > **适用读者**：具有 Java Web 开发经验（Spring Boot / Spring MVC）的后端开发者
@@ -49,5 +55,3 @@
 ---
 
 *本教程由《微信小程序开发入门教程》拆分生成*
-
-> 用AI Agent写的小程序开发入门教程，有错误请指正~
